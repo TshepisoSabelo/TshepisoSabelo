@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @TshepisoSabelo
-- 👀 I’m interested in computer science and programming, gaming technology, artificial intelligence and bioscience tech.  
-- 🌱 I’m currently learning back-end programming using python
-- 💞️ I’m looking to collaborate on programming projects to improve my skills
-- 📫 How to reach me: I am oninstagram as _kmart__
+<h1 align="center">Hi 👋, I'm Tshepiso</h1>
+<h3 align="center">A passionate beginner back-end developer and graphic designer</h3>
 
-<!---
-TshepisoSabelo/TshepisoSabelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **A taxi maths calculator project**
+
+- 🌱 I’m currently learning **Python and SQL**
+
+- 👯 I’m looking to collaborate on **Game design and system designs**
+
+- 🤝 I’m looking for help with **Cloud systems**
+
+- 👨‍💻 All of my projects are available at [https://github.com/TshepisoSabelo](https://github.com/TshepisoSabelo)
+
+- 📫 How to reach me **tshepisosabelo29@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
