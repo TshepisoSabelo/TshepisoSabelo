@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tshepiso</h1>
-<h3 align="center">A passionate beginner back-end developer and graphic designer</h3>
+<h3 align="center">A Computer Science student and an aspiring Machine learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshepisosabelo&label=Profile%20views&color=0e75b6&style=flat" alt="tshepisosabelo" /> </p>
 
-- 🔭 I’m currently working on **A booking system for beauty salons and barber shops.**
+- 🔭 I’m currently working on ** Nails salons Website and a student dashboard.**
 
-- 🌱 I’m currently learning **Python and mySQL**
+- 🌱 I’m currently learning **Javascript and react.JS**
 
-- 👯 I’m looking to collaborate on **Game design and data science projects**
-
-- 🤝 I’m looking for help with **Cloud systems, python libraries and mySQL**
+- 👯 I’m looking to collaborate on **Front-end tasks and data science projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TshepisoSabelo](https://github.com/TshepisoSabelo)
 
