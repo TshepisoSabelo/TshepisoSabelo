@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshepisosabelo&label=Profile%20views&color=0e75b6&style=flat" alt="tshepisosabelo" /> </p>
 
-- 🔭 I’m currently working on ** a GKSS Challenge for University students.**
+- 🔭 I’m currently working on **a GKSS Challenge for University students.**
 
 - 🌱 I’m currently learning **Javascript and react.JS**
 
