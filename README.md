@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tshepiso</h1>
-<h3 align="center">A Computer Science student and an aspiring Machine learning Engineer</h3>
+<h3 align="center">I am a Computer Science and Informatics with AI student at the University of Johannesburg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshepisosabelo&label=Profile%20views&color=0e75b6&style=flat" alt="tshepisosabelo" /> </p>
 
-- 🔭 I’m currently working on ** Nails salons Website and a student dashboard.**
+- 🔭 I’m currently working on ** a GKSS Challenge for University students.**
 
 - 🌱 I’m currently learning **Javascript and react.JS**
 
